@@ -26,7 +26,10 @@ Output:
 
 function main (input) {
     const data = input.split(" ");
-    const sorted = data.sort();
+    const converted = data.map(item => Number(item));
+    const sorted = converted.sort(function(a, b){
+        return a - b;
+    });
     console.log(sorted.pop());
 }
 
