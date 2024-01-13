@@ -1,5 +1,7 @@
 # Codemama Problem Solving
 
+<img src="https://i.ibb.co/wdGX0N1/java-script.png" align="right" width="110" height="110" />
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/codeMama)
 ![GitHub stars](https://img.shields.io/github/stars/rockyhaque/codeMama?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/rockyhaque/rockyhaque?style=social)
@@ -7,7 +9,6 @@
 [![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-handle/)](https://www.linkedin.com/in/your-linkedin-handle/)
 [![Follow me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rocky_haque.10/)](https://www.instagram.com/rocky_haque.10/)
 [![Connect with me on Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rockyhaquee/)](https://www.facebook.com/rockyhaquee/)
-
 
 Welcome to the Codemama Problem Solving repository! This space is dedicated to solving problems on the [Codemama](https://ostad.app/codemama) platform. The goal is to enhance problem-solving skills and share solutions with the community.
 
