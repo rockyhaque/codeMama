@@ -22,3 +22,22 @@ Output:
 
 */
 
+function main (input) {
+    /**
+     * Write JavaScript code from here
+     */
+    const data = input.split(" ");
+    const numbers = data.map(element => Number(element));
+    const result = Math.min(...numbers);
+    console.log(result)
+    
+}
+
+let input = "";
+process.stdin.on('data', (chunk) => {
+    input += chunk;
+});
+
+process.stdin.on('end', () => {
+    main(input.trim());
+});
