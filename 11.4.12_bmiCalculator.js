@@ -32,7 +32,7 @@ Normal weight
     const weight = numbers[1]
     
     const bmi = weight / Math.pow(height, 2);
-    console.log("BMI: ", bmi.toFixed(2))
+    console.log("BMI:", bmi.toFixed(2))
 
     if(bmi < 18.5){
         console.log("Underweight")
