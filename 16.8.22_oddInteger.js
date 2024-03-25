@@ -43,3 +43,29 @@ const data = input.split(" ");
             console.log(key)
         }
     })
+
+
+// using Map
+
+/*
+const data = input.split(" ");
+
+    const checkingObj = new Map();
+
+    for(let i = 0; i < data.length; i++){
+        const item = data[i];
+        if(checkingObj.get(item)){
+            
+            checkingObj.set(item, checkingObj.get(item) + 1)
+        }else{
+            checkingObj.set(item, 1)
+        }
+    }
+    
+    
+    for(let [key, value] of checkingObj){
+        if(value % 2 != 0){
+            console.log(key)
+        }
+    }
+*/
